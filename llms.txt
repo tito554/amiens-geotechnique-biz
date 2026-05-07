@@ -1,0 +1,55 @@
+# Amiens
+
+> Geotechnical engineering company in France, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amelioration Des Sols](https://amiens.geotechnique.biz/amelioration-des-sols/)
+- [Ancrages](https://amiens.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://amiens.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://amiens.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://amiens.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://amiens.geotechnique.biz/colonnes-ballastees/)
+- [Contact](https://amiens.geotechnique.biz/contact/)
+- [Densite Cone Sable](https://amiens.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://amiens.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://amiens.geotechnique.biz/essais-proctor/)
+- [Excavations Profondes](https://amiens.geotechnique.biz/excavations-profondes/)
+- [Excavations Souterrain](https://amiens.geotechnique.biz/excavations-souterrain/)
+- [Fondations](https://amiens.geotechnique.biz/fondations/)
+- [Geophysique](https://amiens.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://amiens.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://amiens.geotechnique.biz/granulometrie/)
+- [Injections](https://amiens.geotechnique.biz/injections/)
+- [Investigation](https://amiens.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://amiens.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://amiens.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://amiens.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://amiens.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://amiens.geotechnique.biz/liquefaction/)
+- [Masw](https://amiens.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://amiens.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://amiens.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://amiens.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://amiens.geotechnique.biz/pieux/)
+- [Privacidad](https://amiens.geotechnique.biz/privacidad/)
+- [Puits Inspection](https://amiens.geotechnique.biz/puits-inspection/)
+- [Radiers](https://amiens.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://amiens.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://amiens.geotechnique.biz/resistivite/)
+- [Semelles](https://amiens.geotechnique.biz/semelles/)
+- [Sismique](https://amiens.geotechnique.biz/sismique/)
+- [Sitemap](https://amiens.geotechnique.biz/sitemap/)
+- [Sondages Spt](https://amiens.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://amiens.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://amiens.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://amiens.geotechnique.biz/talus/)
+- [Triaxial](https://amiens.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://amiens.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://amiens.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://amiens.geotechnique.biz/
+
+## About
+This page provides information about geotechnical engineering services available in France.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
