@@ -78,6 +78,23 @@ details p{color:#141414;line-height:1.65;margin:0}
   
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<style id="minimal-fix-v5">
+/* Sticky para navbar específicos (NO header.hero) */
+.topbar, .navbar, .header-top, .main-header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1010 !important;
+}
+header.hero, .hero { position: relative !important; }
+/* Dropdowns por encima del hero */
+.dd, .has-dd .dd, .nav-item .dd {
+  z-index: 1100 !important;
+}
+/* Leaflet contained */
+.leaflet-pane { z-index: 400 !important; }
+.leaflet-control { z-index: 800 !important; }
+.leaflet-container { z-index: 1 !important; }
+</style>
 </head><body>
 
 <nav class="navbar">
@@ -92,7 +109,7 @@ details p{color:#141414;line-height:1.65;margin:0}
 </nav>
 
 <header class="hero"><div class="hero-inner">
-    <div class="crumb-207b-207b"><a href="/">← Home</a> · Géotechnique routière</div>
+    <div class="crumb-207b-207b"><a href="/">← Home</a> · Routier</div>
     <h1>Étude CBR pour conception routière à Amiens</h1>
     <p class="together">Ensemble, nous résolvons les défis de demain.</p>
     <a class="hero-cta" href="#main-content">EN SAVOIR PLUS →</a>
@@ -162,12 +179,13 @@ details p{color:#141414;line-height:1.65;margin:0}
         <link rel="stylesheet" href="/css/leaflet-207b.css">
         <script src="/js/leaflet-207b.js"></script>
         <script>
-        (function(){
+
+(function(){
           var m=L.map("map_643d47",{zoomControl:true,attributionControl:true}).setView([49.8941708,2.2956951],11);
           L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}@2x.png",{
             attribution:"&copy; Contributeurs OpenStreetMap &copy; CARTO",maxZoom:19,subdomains:"abcd"
           }).addTo(m);
-          L.marker([49.8941708,2.2956951]).addTo(m).bindPopup("Amiens");
+          L.marker([49.8941708,2.2956951],{icon:L.icon({iconUrl:'/css/images/marker-icon.png',iconRetinaUrl:'/css/images/marker-icon-2x.png',shadowUrl:'/css/images/marker-shadow.png',iconSize:[25,41],iconAnchor:[12,41],popupAnchor:[1,-34],shadowSize:[41,41]})}).addTo(m).bindPopup("Amiens");
         })();
         </script>
         <div style="margin-top:.5rem;font-size:.78rem;color:#888;text-align:center">
